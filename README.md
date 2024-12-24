@@ -5,7 +5,7 @@ This FiveM Vehicle Handling Replacement Tool is designed to help server administ
 
 I saw someone selling one similar for $35, so decided to just make my own that lets you be more selective with vehicles.
 
-So i actually lost the original source code in .net, so i decompiled it into a c# project and uploaded that instead.
+So i actually lost the source code, so ive uploaded the binaries. Best i could do
 
 
 ## Features
